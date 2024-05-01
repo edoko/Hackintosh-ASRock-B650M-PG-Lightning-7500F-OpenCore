@@ -1,7 +1,7 @@
-## WIP: I'm currently working on it and will upload the EFI soon, along with completing the README!
 # Hackintosh-ASRock-B650M-PG-Lightning-7500F-OpenCore
 
-![neofetch](https://github.com/edoko/Hackintosh-ASRock-B650M-PG-Lightning-7500F-OpenCore/assets/1365682/c0bd2aa7-451c-43ed-8315-147515c77240) ![geekbench](https://github.com/edoko/Hackintosh-ASRock-B650M-PG-Lightning-7500F-OpenCore/assets/1365682/99269ad1-db5a-4ed2-9646-acf64522ea32)
+![neofetch](https://github.com/edoko/Hackintosh-ASRock-B650M-PG-Lightning-7500F-OpenCore/assets/1365682/c0bd2aa7-451c-43ed-8315-147515c77240)
+![geekbench](https://github.com/edoko/Hackintosh-ASRock-B650M-PG-Lightning-7500F-OpenCore/assets/1365682/99269ad1-db5a-4ed2-9646-acf64522ea32)
 
 
 ## Prerequisites

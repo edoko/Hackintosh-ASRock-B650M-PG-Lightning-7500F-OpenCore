@@ -6,11 +6,14 @@
 
 ## Prerequisites
 > [!WARNING]  
-> Use of this is at your own risk. 
+> Use of this is at your own risk.
+> 
 > This is literally a 'Hackintosh', so there are no guarantees that it will work.
+> 
 > Always keep in mind.
 
 Dortania guides: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
+
 AMD BIOS Settings: https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#amd-bios-settings
 
 
